@@ -1,0 +1,14 @@
+{
+  "name": "0130f58f22495158",
+  "main": "0130f58f22495158@342.js",
+  "version": "342.0.0",
+  "homepage": "https://observablehq.com/d/0130f58f22495158",
+  "author": {
+    "name": "CSCE679",
+    "url": "https://observablehq.com/@csce679"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
